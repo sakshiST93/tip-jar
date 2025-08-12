@@ -26,5 +26,7 @@ Leaderboards: Showcase users with the most badges.
 NFT Integration: Convert badges into transferable NFTs.
 
 5. Contract Address
-(Replace after deployment)
-SP1234567890ABCDEFGH1234567890ABCDEFGH.friendship-badges
+ST3D2PZZ7BTZV1SSMF5ZNPP3HQV7CJFYWWY12XJZW.nft-Friendship-Badges
+6. Contract
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f3447b99-2ed0-4591-9b44-258d6ed8b0e7" />
+
